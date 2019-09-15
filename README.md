@@ -1,2 +1,7 @@
 # CalculadoraBasica-Version1-
-Realiza operaciones aritmeticas(suma, resta, division, multiplicacion), se aplica el polimorfimo y herencia.
+Realiza operaciones aritmeticas (solo de dos valores):
+- Suma
+- Resta
+- Division
+- Multiplicacion
+Se utiliza polimorfismo y herecia.
